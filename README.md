@@ -2,7 +2,7 @@
 
 ## Reference
 
-| No. | Title | Translated book | Author | Publisher 
+| No. | Title | Author | Publisher | Translated book 
 | :--- | :--- |:--- | :--- | :---
-| 1 | Machine Learning with R | R을 활용한 기계학습 | Brett Lantz | acorn+PACKT   
-| 2 | Machine Learning with R | R을 활용한 기계학습 | Brett Lantz | acorn+PACKT |
+| 1 | Machine Learning with R | Brett Lantz | acorn+PACKT | R을 활용한 기계학습   
+| 2 | Machine Learning with R | Brett Lantz | acorn+PACKT | R을 활용한 기계학습 |
